@@ -1,0 +1,4 @@
+Nombre: Sebastian Gonzalez
+Edad: 18
+Color favorito:Gris y Rojo
+Ciudad de nacimiento: Armenia
